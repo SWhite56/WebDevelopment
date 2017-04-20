@@ -1,0 +1,11 @@
+{
+	"Campaign": [
+		{
+			"title": "Campaign Name",
+			"number": "Number of Players",
+			"class, level;": "Class and Level",
+			"names": "Important NPCs",
+			"story": "The Story So Far..."
+		}
+	]
+}
