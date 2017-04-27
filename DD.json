@@ -7,5 +7,16 @@
 			"names": "Important NPCs",
 			"story": "The Story So Far..."
 		}
+	],
+	"Character": [
+		{
+			"name": "(Character Name)",
+			"race": "(Race)",
+			"class": "(Class)",
+			"number": [
+				"(Level)"
+			],
+			"alignment": "(Alignment)"
+		}
 	]
 }
